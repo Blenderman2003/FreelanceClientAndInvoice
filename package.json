@@ -1,0 +1,16 @@
+{
+  "name": "freelanceclientandinvoice",
+  "version": "1.0.0",
+  "description": "Freelance client and invoicing tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CITA 450",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.0"
+  }
+}
