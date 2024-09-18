@@ -1,5 +1,4 @@
 in vscode open the terminal (or open a new one if needed by going to the top of the window > Terminal > new Terminal)
-type node . into the terminal (if for some reason this doesn't work, try node index.js)
-if it responds "Server is running on port (port number, currently 8080)" then it worked, if it errors or doesn't say that then it failed to start
-go to your web browser and go to http://localhost:8080 (or whatever port the start up response gives if we ever change it) (needs to include the http:// and the :(port))
-when finished, go back to the terminal and press ctrl + c to close the server (you also need to do this and type node . again for any changes made while the server is running to take effect)
+type npm start into the terminal
+It will automatically open the webpage, but if not copy paste the local host command it returns in your browser.
+when finished, go back to the terminal and press ctrl + c to close the server
