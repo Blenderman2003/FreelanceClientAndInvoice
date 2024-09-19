@@ -1,0 +1,4 @@
+https://medium.com/@r.sipchenko/you-should-not-use-redux-for-your-react-application-a68280ba7edf
+https://create-react-app.dev/docs/getting-started
+https://blog.webdevsimplified.com/2022-07/react-folder-structure/
+https://www.w3schools.com/react/react_getstarted.asp
